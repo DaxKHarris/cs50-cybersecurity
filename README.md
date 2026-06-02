@@ -36,13 +36,21 @@ my problem set write-ups, scores, and final project as I work through the materi
 - Cross Site Request Forgery
 - Arbitrary Code Execution
 
+### Lecture 4: Preserving Privacy
+- VPN
+- Tor
+- Third Party Cookies
+- Tracking Cookies
+- Fingerprinting
+
 ## Score Tracker
 | Assignment | Score |
 |------------|-------|
-| Lecture 0 - Securing Accounts | 8/10  |
-| Lecture 1 - Securing Data     | 10/10 |
-| Lecture 2 - Securing Systems  | -     |
-| Lecture 3 - Securing Software | -     |
+| Lecture 0 - Securing Accounts  | 8/10  |
+| Lecture 1 - Securing Data      | 10/10 |
+| Lecture 2 - Securing Systems   | -     |
+| Lecture 3 - Securing Software  | -     |
+| Lecture 4 - Preserving Privacy | -     |
 
 ## Status
 🟡 In progress
