@@ -48,9 +48,9 @@ my problem set write-ups, scores, and final project as I work through the materi
 |------------|-------|
 | Lecture 0 - Securing Accounts  | 8/10  |
 | Lecture 1 - Securing Data      | 10/10 |
-| Lecture 2 - Securing Systems   | -     |
-| Lecture 3 - Securing Software  | -     |
-| Lecture 4 - Preserving Privacy | -     |
+| Lecture 2 - Securing Systems   | 9/10  |
+| Lecture 3 - Securing Software  | 10/10 |
+| Lecture 4 - Preserving Privacy | 9/10  |
 
 ## Status
 🟡 In progress
